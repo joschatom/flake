@@ -16,7 +16,7 @@ clap_derive = { version = "*", optional = true}
 inkwell = { version = "0.4.0", features = ["llvm14-0"], optional = true}
 itertools = "0.12.1"
 macros = { path = "macros" }
-serde = { version = "1.0.197", features = ["derive", "unstable"] }
+serde = { version = "1.0.201", features = ["derive", "unstable"] }
 serde_json = "1.0.115"
 colored = "2.1.0"
 
